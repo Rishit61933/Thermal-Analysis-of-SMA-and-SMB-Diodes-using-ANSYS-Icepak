@@ -1,0 +1,1 @@
+# Thermal-Analysis-of-SMA-and-SMB-Diodes-using-ANSYS-Icepak
