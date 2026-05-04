@@ -106,6 +106,12 @@ Compared a cuboidal die (1.2 × 1.2 × 0.3 mm) with a cylindrical die of the **s
 **Conclusion:** SMB diodes provide superior thermal performance due to their larger die size and surface area, resulting in better heat dissipation and device reliability.
 
 ---
+## 📦 Project Files
+
+Download full ANSYS project files here:  
+👉 https://github.com/YOUR_USERNAME/YOUR_REPO/releases
+
+---
 
 ## 🔮 Future Work
 
