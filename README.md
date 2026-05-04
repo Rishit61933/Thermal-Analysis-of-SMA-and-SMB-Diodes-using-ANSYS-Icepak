@@ -117,15 +117,6 @@ Compared a cuboidal die (1.2 × 1.2 × 0.3 mm) with a cylindrical die of the **s
 
 ---
 
-
----
-
-## 📄 Presentation
-
-The full slide deck (with simulation visuals, temperature plots, and comparison tables) is in the [`presentation/`](./presentation/) folder.
-
----
-
 ## 📚 References
 
 1. [Diodes Inc. — SMA Package Datasheet](https://www.diodes.com)
