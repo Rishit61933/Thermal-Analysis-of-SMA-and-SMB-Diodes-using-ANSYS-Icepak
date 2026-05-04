@@ -109,7 +109,7 @@ Compared a cuboidal die (1.2 × 1.2 × 0.3 mm) with a cylindrical die of the **s
 ## 📦 Project Files
 
 Download full ANSYS project files here:  
-👉 https://github.com/YOUR_USERNAME/YOUR_REPO/releases
+👉 https://github.com/Rishit61933/Thermal-Analysis-of-SMA-and-SMB-Diodes-using-ANSYS-Icepak/releases
 
 ---
 
